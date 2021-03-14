@@ -10,5 +10,4 @@ App demo video is given below
 https://youtu.be/lG8qQSk9Pcw
 
 # Screen Short
-![image](https://user-images.githubusercontent.com/65964102/111071195-02966300-84fb-11eb-8803-2c5cbaddb800.png)
-
+![Screenshot_2021-03-14-19-30-18-87](https://user-images.githubusercontent.com/65964102/111071379-db8c6100-84fb-11eb-8348-bb837964d383.jpg)
