@@ -21,7 +21,14 @@ We also encourage our users to buy plants by clicking on the button present at t
 Thankyou!
 # presentation
 App demo video is given below
-https://youtu.be/lG8qQSk9Pcw
+https://www.youtube.com/watch?v=xyVfd56o7-Q
+
+# instruction to run the app
+Step 1: place the php files which is inside the folder climatePhp into your htdocs folder
+Step 2: import the sql file in phpMyAdmin
+Step 3: Port Forward the local url link using ngrok
+Step 4: update the config file with this new url
+Step 5: Run the app
 
 # Screen Short
 ![Screenshot_2021-03-14-19-30-18-87](https://user-images.githubusercontent.com/65964102/111071379-db8c6100-84fb-11eb-8348-bb837964d383.jpg)
