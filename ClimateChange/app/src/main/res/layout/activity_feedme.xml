@@ -1,0 +1,63 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginVertical="10dp"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HOW TO GROW ME FASTER?"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo"
+            android:layout_marginVertical="10dp"
+            android:textColor="#000000"
+            />
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtube_player_view1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="MrOMlJbH_NA"
+            app:autoPlay="true"
+            app:showFullScreenButton="false" />
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtube_player_view2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="lYsmauK8Oko"
+            app:autoPlay="true"
+            android:layout_marginTop="25dp"
+            app:showFullScreenButton="false" />
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtube_player_view3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="MBkYD2HLy34"
+            app:autoPlay="true"
+            android:layout_marginTop="25dp"
+            app:showFullScreenButton="false" />
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtube_player_view4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="LqM3MH0cswY"
+            app:autoPlay="true"
+            android:layout_marginTop="25dp"
+            app:showFullScreenButton="false" />
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtube_player_view5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="gxHzkeT9O24"
+            app:autoPlay="true"
+            android:layout_marginTop="25dp"
+            app:showFullScreenButton="false" />
+
+    </LinearLayout>
+</ScrollView>

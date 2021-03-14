@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0DBF81</color>
+    <color name="colorPrimaryDark">#0DBF81</color>
+    <color name="colorAccent">#0DBF81</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="greenafi">#007a36</color>
+    <color name="white">#fff</color>
+    <color name="soft_grey">#ffeceeef</color>
+    <color name="jaguar">#232237</color>
+    <color name="accent">#d50000</color>
+
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor">#727272</color>
+    <color name="gray">#c6c6c6</color>
+    <color name="lightGray">#f2f2f2</color>
+    <color name="grayTrans">#33c6c6c6</color>
+    <color name="black">#000000</color>
+    <color name="transWhite">#26007a36</color>
+    <color name="title">#222222</color>
+    <color name="midline">#F0F0F0</color>
+
+    <color name="blueGray">#e6e600</color>
+    <color name="lightRed">#ECD8D8</color>
+
+    <color name="colorActiveItem">#4400a59c</color>
+</resources>
